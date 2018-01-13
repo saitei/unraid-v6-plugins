@@ -2,12 +2,12 @@
 
 <!DOCTYPE PLUGIN [
 <!ENTITY name       "nzbget">
-<!ENTITY author     "overbyrn">
+<!ENTITY author     "saitei">
 <!ENTITY version    "2015.03.25">
 <!ENTITY category   "Network Services">
 <!ENTITY pluginDIR   "/boot/config/plugins/&name;">
-<!ENTITY pluginURL  "https://raw.github.com/overbyrn/unraid-v6-plugins/master/&name;.plg">
-<!ENTITY packageURL "https://github.com/overbyrn/unraid-v6-plugins/releases/download/&name;">
+<!ENTITY pluginURL  "https://raw.github.com/saitei/unraid-v6-plugins/master/&name;.plg">
+<!ENTITY packageURL "https://github.com/saitei/unraid-v6-plugins/releases/download/&name;">
 <!ENTITY devplugin  "false">
 ]>
 
