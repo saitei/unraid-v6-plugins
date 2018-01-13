@@ -7,7 +7,7 @@
 <!ENTITY category   "Network Services">
 <!ENTITY pluginDIR   "/boot/config/plugins/&name;">
 <!ENTITY pluginURL  "https://raw.github.com/saitei/unraid-v6-plugins/master/&name;.plg">
-<!ENTITY packageURL "https://github.com/saitei/unraid-v6-plugins/releases/download/&name;">
+<!ENTITY packageURL "https://github.com/saitei/unraid-v6-plugins/archive/&name;.tar.gz">
 <!ENTITY devplugin  "false">
 ]>
 
